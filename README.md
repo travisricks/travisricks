@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there, I'm Travis 👋
+
+- 🔭 I’m currently working on frontend development at an agency in Tokyo 🇯🇵
+- 🌱 I’m currently learning anything I can
 
 <!--
 **travisricks/travisricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
