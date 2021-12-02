@@ -1,6 +1,6 @@
 ### Hey there, I'm Travis 👋
 
-- 🔭 I’m currently working on frontend development at an agency in Tokyo 🇯🇵
+- 🔭 I’m currently working on frontend development in Tokyo 🇯🇵
 - 🌱 I’m currently learning anything I can
 
 <!--
