@@ -1,6 +1,6 @@
 ### Hey there, I'm Travis 👋
 
-- 🔭 I’m currently working on frontend development in Tokyo 🇯🇵
+- 🔭 I’m currently working as a fullstack engineer and engineering manager in Tokyo 🇯🇵
 - 🌱 I’m currently learning anything I can
 
 <!--
